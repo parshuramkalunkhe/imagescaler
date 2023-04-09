@@ -6,7 +6,6 @@ print("--Image resizer using opencv.")
 # takes path of image from user. 
 image_path = input("Enter Path ot Image Resize : ")
 
-
 image = cv2.imread(image_path, cv2.IMREAD_UNCHANGED)
 # just show image
 # cv2.imshow("title", src)
