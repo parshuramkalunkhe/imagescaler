@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/parshuramkalunkhe/Image-Scale-Down
 ```
-- install requirements for this script
+- install requirements
 ```
 pip install -r requirements.txt
 ```
