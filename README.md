@@ -4,7 +4,7 @@
 
 - clone the repo 
 ```
-git clone https://github.com/parshuramkalunkhe/Image-Scale-Down
+git clone https://github.com/parshuramkalunkhe/Image-Scale-Down.git
 ```
 - install requirements
 ```
